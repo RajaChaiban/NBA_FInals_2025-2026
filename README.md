@@ -95,7 +95,7 @@ To regenerate the notebook from source: `python build_notebook.py`.
 | `build_notebook.py` | Generates the notebook from source |
 | `sensitivity_check.py` | Standalone harness: base case, McNemar significance, weighting-sensitivity grid |
 | `data/raw_games.csv` | Cached raw box scores |
-| `docs/superpowers/specs/` | Design spec |
+
 
 ## Leakage guards
 
